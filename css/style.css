@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: white;
+}
+.header__wrap {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.nav__logo {
+  width: 120px;
+  height: 151px;
+  margin: 0 900px 79px;
+}
+.nav__menu {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  color: #8c8a8a;
+}
+.text-block {
+  width: 730px;
+  height: 500px;
+  background-color: #F0F0F0;
+}
+.text-block2 {
+  width: 350px;
+  height: 500px;
+  background-color: #F0F0F0;
+}
+.text__title {
+  color: #4581b7;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
+  margin: 50px 250px 25px 40px;
+}
+.text__title2 {
+  color: #4581b7;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 23px;
+  margin: 50px 130px 25px 40px;
+  padding: 0px 0 0px;
+}
+.text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  margin: 0 95px 51px 40px;
+  color: grey;
+}
+.text2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 27px;
+  margin: 0px 24px 60px 40px;
+  color: grey;
+}
+.text3 {
+  margin: 60px 60px 0px 30px;
+  color: grey;
+  padding: 0 0 50px 0;
+}
+.footer__wrap {
+  background: #F0F0F0;
+  display: flex;
+  justify-content: space-between;
+  align-content: space-evenly;
+  padding: 15px 40px;
+  width: 1110px;
+  height: 150px;
+}
+.footer__logo {
+  width: 254px;
+  height: 120px;
+  display: flex;
+}
+.footer__list {
+  width: 263px;
+  height: 19px;
+  text-align: right;
+}
+.endlist1 {
+  color: #808080;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  margin: 20px 0;
+}
+.endlist2 {
+  color: #808080;
+  font-size: 25px;
+  font-weight: 700;
+  line-height: 29px;
+  margin: 40px 0 30px;
+}
+.container {
+  max-width: 1110px;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto ;
+  padding: 40px 0 0 50px;
+}
+.text__wrap {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  width: 1110px;
+  height: 500px;
+}
+.banner__wrap {
+  width: 1110px;
+  height: 450px;
+}
+.link {
+  color: grey;
+}
